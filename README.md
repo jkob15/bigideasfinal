@@ -41,11 +41,11 @@ We chose to find the most fun neighborhood in Pittsburgh. The three datasets we 
 
 <br />
 
-[Playgrounds.csv](docs/Playgrounds.csv)
+[Playgrounds.csv](Playgrounds.csv)
 
 <br />
 
-[Fastfood.csv](docs/fastfood.tsv)
+[Fastfood.csv](fastfood.tsv)
 
 <br />
 
